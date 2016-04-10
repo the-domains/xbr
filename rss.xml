@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[xbr]]></title>
         <description><![CDATA[xbr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xbr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 21:59:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 22:10:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xbr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined46522488-264c-41dd-95f7-6edb186bf13f/index.html</link>
+            <title><![CDATA[XBR]]></title>
+            <description><![CDATA[<article><h1>XBR</h1><p>Primeira bolsa brasileira especializada em Bitcoin, Ether e Alt-coins.</p></article>]]></description>
+            <link>https://thegrid.ai/xbr/46522488-264c-41dd-95f7-6edb186bf13f/index.html</link>
             <guid isPermaLink="false">46522488-264c-41dd-95f7-6edb186bf13f</guid>
-            <pubDate>Sun, 10 Apr 2016 21:59:55 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 22:10:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
