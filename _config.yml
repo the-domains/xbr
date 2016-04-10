@@ -1,0 +1,28 @@
+name: xbr
+favicon: null
+layout_spectrum: 0.40236035478301346
+typography_spectrum: 0.5981767405755818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.20683008036576211
+  lightness: 0.08638298721052706
+  saturation: 0.4883887500036508
+  rhythmicContrast: 0.660509649431333
+purpose: []
