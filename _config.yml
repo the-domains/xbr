@@ -1,6 +1,6 @@
 name: xbr
 favicon: null
-layout_spectrum: 0.40236035478301346
+layout_spectrum: 0.18428
 typography_spectrum: 0.5981767405755818
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#b9d3e7'
+    - '#feffff'
+    - '#26539c'
+    - '#4f94bb'
+    - '#0e288b'
   brandStrength: 0.20683008036576211
   lightness: 0.08638298721052706
   saturation: 0.4883887500036508
